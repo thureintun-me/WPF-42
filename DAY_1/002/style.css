@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container{
+    width: 1080px;
+    margin: 0 auto;
+    
+}
+
+header{
+    width: 100%;
+    height: 100px;
+    background-color: aqua;
+}
+
+#content{
+    width: 1080px;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#left_content{
+    width:540px;
+    height:100px;
+    background-color: chartreuse;
+}
+
+#right_content{
+    width: 540px;
+    height:100px;
+    background-color: royalblue;
+}
+
+#icon{
+    width: 100%;
+    height: 200px;
+    background-color: gray;
+}
+
+#blog_area{
+    width: 100%;
+    height:200px;
+    background-color: aquamarine;
+}
+
+footer{
+    width:100%;
+    height: 150px;
+    background-color: blue;
+}

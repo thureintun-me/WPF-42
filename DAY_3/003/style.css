@@ -1,0 +1,54 @@
+#container{
+    width: 1080px;
+    margin: 0 auto;
+}
+
+.row{
+    width: 1080px;
+    height: 200px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.box_one{
+    width: 488px;
+    height: 158px;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.box_two{
+    width: 304px;
+    height: 158px;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.box_three{
+    width:213px;
+    height: 158px;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.box_four{
+    width:158px;
+    height: 158px;
+    padding: 20px;
+    border: 1px solid red;
+}
+
+.box_five{
+    width:129px;
+    height:157px;
+    padding: 20px;
+    border:1px solid red;
+}
+
+.box_six{
+    width:142px;
+    height: 158px;
+    padding: 2px;
+    border: 1px solid red;
+}

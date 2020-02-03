@@ -1,0 +1,325 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#container{
+  margin: 0 auto;
+}
+#logo{
+  height: 80px;
+  background-color: aliceblue;
+}
+
+#nav{
+  height: 70px;
+  background-color: red
+}
+
+#news{
+  height: 50px;
+  background-color: blue;
+}
+#news_dummy_text{
+  height: 50px;
+  background-color: aliceblue
+}
+
+#button_next{
+  height: 50px;
+  background-color: beige;
+}
+#photo_slide_1{
+  height: 300px;
+  background-color: blueviolet;
+  text-align: center;
+  font-size: 20px;
+}
+#photo_slide_2{
+  height: 100px;
+  background-color: aliceblue;
+}
+#photo_s1{
+  height: 100px;
+  background-color: cadetblue;
+}
+#photo_s2{
+  height: 100px;
+  background-color: aquamarine;
+}
+#photo_s3{
+  height: 100px;
+  background-color: blanchedalmond'
+}
+#photo_s4{
+  height: 100px;
+  background-color: darkcyan;
+}
+
+#editorial_section_1{
+  height: 150px;
+  background-color: aquamarine
+}
+
+#editorial_section_2{
+  height: 250px;
+  background-color: aqua;
+  font-size: 25px;
+  text-align: center;
+}
+
+#latest_news_header{
+  height: 40px;
+  background-color: skyblue;
+
+}
+#lnews_section_1{
+  height: 300px;
+  background-color: darkslategray;
+  font-size: 25px;
+  text-align: center;
+}
+#lnews_section_2{
+  height: 300px;
+  background-color: cornsilk;
+  font-size: 25px;
+  text-align: center;
+}
+
+#lnews_section_3{
+  height: 300px;
+  background-color: cyan;
+  font-size:25px;
+  text-align: center;
+}
+
+#popular_news_header{
+  height: 50px;
+  text-align: center;
+  background-color: blue;
+}
+
+#popular_news_1{
+  height: 50px;
+  background-color: darkkhaki;
+}
+#popular_news_2{
+  height: 50px;
+  background-color: cyan;
+}
+#popular_news_3{
+  height: 50px;
+  background-color: darkblue;
+}
+#popular_news_4{
+  height: 50px;
+  background-color: aquamarine;
+}
+#popular_news_5{
+  height: 50px;
+  background-color: darkslategrey;
+}
+#video_header{
+  background-color: skyblue;
+  height: 40px;
+}
+#video_section_1{
+  height: 300px;
+  background-color: darkgray;
+}
+#video_section_2{
+  height: 300px;
+  background-color: coral;
+}
+#video_section_3{
+  height: 300px;
+  background-color: cornflowerblue;
+}
+
+#pdf_header{
+  height: 40px;
+  background-color: darkgreen;
+  text-align: center;
+  color: aqua;
+}
+#pdf{
+  height: 260px;
+  font-size: 30px;
+  background-color: lightgreen;
+}
+#education_header{
+  height: 40px;
+  background-color: skyblue;
+}
+#edu_sec_1{
+  height: 300px;
+  background-color: hotpink;
+}
+#edu_sec_2{
+  height: 300px;
+  background-color: indigo;
+}
+#edu_sec_3{
+  height: 300px;
+  background-color: mediumblue;
+}
+#feature_video_1{
+  height: 40px;
+  text-align: center;
+  background-color: mediumblue;
+  color: cyan;
+}
+#feature_video_2{
+  height: 260px;
+  font-size: 25px;
+  background-color: mediumspringgreen;
+}
+#entertainment{
+  height: 40px;
+  background-color: skyblue;
+}
+
+#entertainment_section_1{
+  height: 300px;
+  background-color: darkgrey;
+}
+#entertainment_section_2{
+  height: 300px;
+  background-color: lightgray;
+}
+#entertainment_section_3{
+  height: 300px;
+  background-color: fuchsia;
+}
+.blur{
+  height: 300px;
+  background-color: ghostwhite;
+}
+#sport_header{
+  height: 40px;
+  background-color: skyblue;
+}
+#sport_section_1{
+  height: 300px;
+  background-color: mediumslateblue;
+}
+#sport_section_2{
+  height: 300px;
+  background-color: mediumseagreen;
+}
+#sport_section_3{
+  height: 300px;
+  background-color: mediumvioletred;
+}
+#ads_header{
+  height: 40px;
+  background-color: skyblue;
+}
+#ad_section_1{
+  height: 300px;
+  background-color: gold;
+}
+#ad_section_2{
+  height: 300px;
+  background-color: goldenrod;
+}
+#ad_section_3{
+  height: 300px;
+  background-color: darkgoldenrod;
+}
+#perpesctive_header{
+  height: 40px;
+  background-color: skyblue;
+}
+#perpesctive_section_1{
+  height: 300px;
+  background-color: lightpink;
+}
+#perpesctive_section_2{
+  height: 300px;
+  background-color: lightsalmon;
+}
+#perpesctive_section_3{
+  height: 300px;
+  background-color: lightseagreen;
+}
+#it_header{
+  height: 40px;
+  background-color: skyblue;
+}
+#it_section_1{
+  height: 300px;
+  background-color: palegoldenrod;
+}
+#it_section_2{
+  height: 300px;
+  background-color: palegreen;
+}
+#it_section_3{
+  height: 300px;
+  background-color: paleturquoise;
+}
+.editor_choice{
+  background: black;
+}
+#editor_pick{
+  height: 85px;
+  font-size: 19px;
+  color: white;
+  background-color: black;
+}
+#plus{
+  height: 85px;
+  color:white;
+  background-color: black;
+}
+#editor_pick_section_1{
+  height: 300px;
+color: blue;
+  border:1px solid antiquewhite;
+}
+#editor_pick_section_2{
+  height: 300px;
+  border:1px solid antiquewhite;
+  color: brown;
+}
+#editor_pick_section_3{
+  height: 300px;
+  border:1px solid antiquewhite;
+  color: brown;
+}
+#editor_pick_section_4{
+  height: 300px;
+  border:1px solid antiquewhite;
+  color: brown;
+}
+#editor_pick_section_5{
+  height: 300px;
+  border:1px solid antiquewhite;
+  color: brown;
+}
+#editor_pick_section_6{
+  height: 300px;
+  border:1px solid antiquewhite;
+  color: brown;
+}
+#white_space{
+  background-color: aliceblue;
+  height: 20px;
+}
+#footer_section_1{
+  height: 300px;
+  border:1px solid antiquewhite;
+}
+#footer_section_2{
+  height: 300px;
+  border:1px solid antiquewhite;
+}
+#footer_section_3{
+  height: 300px;
+  border:1px solid antiquewhite;
+}
+#copyright{
+  height: 70px;
+  background-color: darkgray;
+  text-align: center;
+}

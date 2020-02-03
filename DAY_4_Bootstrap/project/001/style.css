@@ -1,0 +1,149 @@
+#logo{
+    background-color: aqua;
+    height: 150px;
+}
+
+#navi{
+    height: 50px;
+    background-color:red;
+}
+
+#news{
+    height: 50px;
+    background-color: black;
+}
+
+#slide{
+    
+    height: 300px;
+    background-color: green;
+}
+
+#side1{
+    height: 150px;
+    background-color: chartreuse;
+    
+}
+
+#side2{
+    height: 150px;
+    background-color:aquamarine;
+    
+}
+
+#pslide1{
+    height: 150px;
+    background-color: darkturquoise;
+}
+#pslide2{
+    height: 150px;
+    background-color: cyan;
+}
+
+#pslide3{
+    height: 150px;
+    background-color: cornsilk;
+}
+
+#pslide4{
+    height: 150px;
+    background-color: blue;
+}
+
+#pslide5{
+    height: 150px;
+    background-color: darkmagenta;
+}
+
+#lnew1{
+    height: 200px;
+    background-color: blue;
+}
+
+#lnew2{
+    height: 200px;
+    background-color: black;
+}
+
+#lnew3{
+    height: 200px;
+    background-color: blueviolet;
+}
+
+#popular1{
+    height: 50px;
+    background-color: cadetblue;
+}
+
+#popular2{
+    height: 50px;
+    background-color: aqua;
+}
+
+#popular3{
+    height: 50px;
+    background-color: blanchedalmond;
+}
+
+#popular4{
+    height: 50px;
+    background-color:aquamarine ;
+}
+
+#video{
+    height: 50px;
+    background-color: cornflowerblue;
+}
+
+#vslide1{
+    height:150px;
+    background-color: crimson;
+}
+
+#vslide2{
+    height:150px;
+    background-color:aquamarine ;
+}
+
+#vslide3{
+    height:150px;
+    background-color:blue;
+}
+
+#pdf{
+    height:150px;
+    background-color: brown;
+}
+
+#thu{
+    display: flex;
+    flex-direction: column;
+}
+
+#edu{
+    height: 50px;
+    background-color: darkgray;
+}
+
+#edu1{
+    height: 150px;
+    background-color: blue;
+}
+
+#edu2{
+    height: 150px;
+    background-color:blueviolet;
+}
+
+#edu3{
+    height: 150px;
+    background-color: brown;
+}
+
+#feature-video{
+    height: 150px;
+    background-color: black;
+}
+
+
+
